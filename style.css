@@ -1,0 +1,35 @@
+.heading{
+    font-size:25px;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 5px 5px grey;
+}
+.heading_div{
+    float:none;
+    background:white;
+    padding:10px;
+    color:teal;
+    border-radius:20px;
+}
+.heading_div2{
+    font-size:20px;
+}
+.result_para_tag{
+    box-shadow:5px 5px 5px grey;
+    font-size:25px;
+}
+.footer{
+    position:fixed;
+    color:black;
+    width:100%;
+    bottom:0;
+    background-color:rgb(206, 206, 250);
+    line-height:2;
+    text-align:center;
+}
+canvas{
+    border:7px solid plum;
+    border-radius:30px;
+    box-shadow:5px 5px 18px palevioletred;
+    margin-top:100px;
+}
